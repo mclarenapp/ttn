@@ -1,0 +1,12 @@
+JsonpData({
+    "lines":[
+        {
+            "title":"*A线路-主线路",
+            "host":"https://ttn-a.youma8.com"
+        },
+        {
+            "title":"*B线路-备用线路",
+            "host":"https://ttn-b.youma8.com"
+        }
+    ]
+})
